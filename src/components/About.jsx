@@ -13,8 +13,8 @@ const About = () => {
         <div className="mb-14">
           <p className="text-xl mt-20">
             Heylo, <br />
-            I am Austin Pereira. So for those of you who don't me I am a software
-            developer and my passion lies in analyzing data and building efficient 
+            I am Austin Pereira. I am a software developer and my passion lies in analyzing 
+            data and building efficient 
             algorithms to extract conclusions and solve problems around it. I did my 
             high school from DPS and Don Bosco Navi Mumbai, India and studied at
             De Anza college for two years and transferred to UC Berkeley as a Data
