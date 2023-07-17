@@ -51,7 +51,7 @@ const Portfolio = () => {
                   className="w-full sm:w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"
                   onClick={() => {
                     // Add the URL of the code repository or relevant link
-                    window.open("https://github.com/your-repo-url", "_blank");
+                    window.open("https://github.com/AUSt-in?tab=repositories", "_blank");
                   }}
                 >
                   Visit

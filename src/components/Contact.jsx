@@ -16,7 +16,7 @@ const Contact = () => {
 
         <div className=" flex justify-center items-center">
           <form
-            action="https://getform.io/f/61c99527-2b15-42cf-9b55-ad37d2f7daa6"
+            action="https://getform.io/f/cda48235-c7e5-4f91-8094-4471003cf71b"
             method="POST"
             className=" flex flex-col w-full md:w-1/2"
           >
